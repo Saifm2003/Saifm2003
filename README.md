@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saifm2003
 - 👀 I’m interested in creating and sharing projects.
-- 🌱 I’m currently learning CIS at Sinclair Community College.
+- 🌱 I’m currently studying Computer Science at Wright State University.
 - 💞️ I’m looking to collaborate on programming projects.
 - 📫 How to reach me: @saifm0277@gmail.com
 
